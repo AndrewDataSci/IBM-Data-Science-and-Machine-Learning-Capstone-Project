@@ -5,6 +5,7 @@ In this capstone, we will predict if the Falcon 9 first stage will land successf
 
 # Data collection with Webscraping and Data wrangling
 **Objectives**
+
 Write Python code to manipulate data in a Pandas data frame.
 
 Convert a JSON file into a Create a Python Pandas data frame by converting a JSON file
@@ -19,6 +20,7 @@ Use your data analysis tools to load a dataset, clean it, and find out interesti
 Make use a RESTful API and web scraping. Convert the data into a dataframe and then perform some data wrangling.
 
 **Objectives**
+
 Create scatter plots and bar charts by writing Python code to analyze data in a Pandas data frame
 
 Write Python code to conduct exploratory data analysis by manipulating data in a Pandas data frame
@@ -31,6 +33,7 @@ Use your data visualization skills to visualize the data and extract meaningful 
 Build a dashboard to analyze launch records interactively with Plotly Dash as well as build an interactive map to analyze the launch site proximity with Folium python Library.
 
 **Objectives**
+
 Build an interactive dashboard that contains pie charts and scatter plots to analyze data with the Plotly Dash Python library
 
 Calculate distances on an interactive map by writing Python code using the Folium library
@@ -45,6 +48,7 @@ Build an interactive map to analyze the launch site proximity with Folium.
 In this module, we'll use machine learning to determine if the first stage of Falcon 9 will land successfully. Data will be split into training data and test data to find the best Hyperparameter for SVM, Classification Trees, and Logistic Regression. Then find the method that performs best using test data.
 
 **Objectives**
+
 Split the data into training testing data.
 
 Train different classification models.
